@@ -1,0 +1,7 @@
+**/__pycache__
+venv/
+
+# build directories
+state_machine_build/
+debug/
+release/

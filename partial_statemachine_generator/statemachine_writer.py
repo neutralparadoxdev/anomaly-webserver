@@ -1,0 +1,2 @@
+class StateMachineWriter:
+    pass
