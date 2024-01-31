@@ -5,3 +5,7 @@ venv/
 state_machine_build/
 debug/
 release/
+build/
+
+.ccls-cache/
+
